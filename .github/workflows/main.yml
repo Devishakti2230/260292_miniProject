@@ -35,5 +35,4 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      - name: Python Pylint Github Action
-         uses: fylein/python-pylint-github-action@v4
+
