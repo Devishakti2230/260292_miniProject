@@ -22,7 +22,7 @@ def subtract(number_1, number_2):
 
 def multiply(number_1, number_2):
     """
-    Takes in two number number_1 and number_2
+    Takes in two numbers number_1 and number_2
     returns the multiplication of number_1 and number_2
     """
     return number_1 * number_2
