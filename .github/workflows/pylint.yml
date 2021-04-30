@@ -1,2 +1,0 @@
-- name: Python Pylint Github Action
-  uses: fylein/python-pylint-github-action@v4
