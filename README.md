@@ -1,5 +1,5 @@
 <h1> Python Mini Project</h1>
-<h2>  Functional Calculator </h2>
+<h2>  DIGITAL Calculator </h2>
 
 |Operation|Status|
 |:---:|:---:|
