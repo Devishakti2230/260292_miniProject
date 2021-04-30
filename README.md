@@ -1,1 +1,6 @@
-# 260292_miniProject
+<h1> Python Mini Project</h1>
+<h2>  Functional Calculator </h2>
+
+|Operation|Status|
+|:---:|:---:|
+|1. Build|[![CI](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml/badge.svg)](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml)|
