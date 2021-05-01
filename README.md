@@ -27,5 +27,14 @@ In this I am completed my mini project by doing a digital calculator with all so
 |5|After that you can run the file through the run buttoon available at the top.|
 |6|You can check the code quality check through the static code analysis tools "pylint" and my score is 10/10|
 
+<h4> Expectation </h4>
+
+|Expectation|Status|
+|:---:|:-----:|
+|Exception Handling|Implemented|
+|Functions Usage|Implemented|
+|Static Code Analysis (pylint)|Implemented|
+|Git Submission|Implemented|
+
 
 Devishakti Jyotishankar Behera - 260292
