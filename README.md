@@ -12,3 +12,16 @@ Contributor
 |PS No.|	Name|
 |:-----:|:----:|
 |260292|	Devishakti Jyotishankar Behera|
+
+Process to execute the code:-
+
+First download the folder whole zip to your local system.
+Then Extract it to your system.
+Then you can open your Pycharm for execution.
+Then you can open the file through your local machine whereever you extracted that file
+After that you can run the file through the run buttoon available at the top.
+You can check the code quality check through the static code analysis tools "pylint" and my score is 10/10
+
+Covers Syllabaus:-
+
+Exception Handling, Loop, Conditional Statement, Functions, String etc. Successfully.
