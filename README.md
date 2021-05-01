@@ -24,6 +24,5 @@
 |5|After that you can run the file through the run buttoon available at the top.|
 |6|You can check the code quality check through the static code analysis tools "pylint" and my score is 10/10|
 
-<h3>Covers Syllabaus:-</h3>
 
-Exception Handling, Loop, Conditional Statement, Functions, String etc. Successfully.
+Devishakti Jyotishankar Behera - 260292
