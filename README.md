@@ -4,10 +4,6 @@
 ![calculator+math+icon-1320086721646396340](https://user-images.githubusercontent.com/62944627/116775009-f9972c00-aa7d-11eb-833f-f601832fb4ad.png)
 
 
-|Operation|Status|
-|:---:|:---:|
-|Build|[![CI](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml/badge.svg)](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml)|
-
 <h3>Contributor</h3>
 
 |PS No.|	Name|
@@ -15,6 +11,7 @@
 |260292|Devishakti Jyotishankar Behera|
 
 <h3>Process to execute the code:-</h3>
+
 |File Name|File Description|
 |:--:|:--:|
 |calculator_implementation_260292.py|It contains over all the python source code and name ending with .py (Completed in PYCHARM)|
