@@ -8,20 +8,22 @@
 |:---:|:---:|
 |Build|[![CI](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml/badge.svg)](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml)|
 
-Contributor
+<h3>Contributor</h3>
 |PS No.|	Name|
 |:-----:|:----:|
 |260292|	Devishakti Jyotishankar Behera|
 
-Process to execute the code:-
+<h3>Process to execute the code:-</h3>
 
-First download the folder whole zip to your local system.
-Then Extract it to your system.
-Then you can open your Pycharm for execution.
-Then you can open the file through your local machine whereever you extracted that file
-After that you can run the file through the run buttoon available at the top.
-You can check the code quality check through the static code analysis tools "pylint" and my score is 10/10
+|SINo.|Steps|
+|:----:|:----:|
+|1|First download the folder whole zip to your local system.|
+|2|Then Extract it to your system.|
+|3|Then you can open your Pycharm for execution.|
+|4|Then you can open the file through your local machine whereever you extracted that file|
+|5|After that you can run the file through the run buttoon available at the top.|
+|6|You can check the code quality check through the static code analysis tools "pylint" and my score is 10/10|
 
-Covers Syllabaus:-
+<h3>Covers Syllabaus:-</h3>
 
 Exception Handling, Loop, Conditional Statement, Functions, String etc. Successfully.
