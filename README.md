@@ -9,9 +9,10 @@
 |Build|[![CI](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml/badge.svg)](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml)|
 
 <h3>Contributor</h3>
+
 |PS No.|	Name|
 |:-----:|:----:|
-|260292|	Devishakti Jyotishankar Behera|
+|260292|Devishakti Jyotishankar Behera|
 
 <h3>Process to execute the code:-</h3>
 
