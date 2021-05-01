@@ -3,7 +3,7 @@
 
 |Operation|Status|
 |:---:|:---:|
-|1. Build|[![CI](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml/badge.svg)](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml)|
+|Build|[![CI](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml/badge.svg)](https://github.com/Devishakti2230/260292_miniProject/actions/workflows/main.yml)|
 
 Contributor
 |PS No.|	Name|
